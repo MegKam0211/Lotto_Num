@@ -12,3 +12,4 @@ Python program that allows the user to play the lottery.
 # (i.e. if the user enters 48 and the lottery number is 84)
 # If the user guesses one digit correctly print out "Congratulations you have one correct digit, you win R1 000.00"
 # (i.e. if the user enters 27 and the lottery number is 78)
+# Else print out "Sorry no match"
